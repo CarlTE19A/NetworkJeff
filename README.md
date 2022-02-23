@@ -1,2 +1,2 @@
 # NetworkJeff
-Under the playable-Jeff File is the built exe file to play with
+Under the playable-Jeff File is the built exe file to test with
